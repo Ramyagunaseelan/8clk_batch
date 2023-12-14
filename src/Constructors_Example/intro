@@ -1,0 +1,17 @@
+What is Constructor?
+
+It is a special type of method
+
+it is invoked when we create an object
+
+initialize the value at the time of object creation
+
+class name and constructor name should be the same
+
+constructor does not return any value
+
+Two types of constructor
+
+1) default constructor
+
+2) user define constructor

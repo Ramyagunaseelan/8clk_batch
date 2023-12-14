@@ -1,0 +1,43 @@
+Looping:
+
+ For loop
+ 
+ For each (Advanced for loop)
+ 
+ While loop
+ 
+ do while loop
+ 
+ 
+ Sy:
+ 
+ for(initialization; condition; increment or decrement)
+ {
+     logics;
+ }
+ 
+ 
+ while loop:
+ 
+ Sy:
+ 
+ initialization;
+ 
+ while(condition)
+ {
+   logics;
+   
+   increment or decrement;
+    
+ }
+ 
+ do while:
+ 
+ initialization;
+ 
+ do
+ {
+  logics;
+  increment or decrement;
+ }
+ while(condition);

@@ -1,0 +1,28 @@
+instance method
+
+
+access modifier  return _type  Method_name()
+{
+
+
+}
+public void m1()
+{
+
+
+}
+
+
+static method
+
+
+access_modifier  static_modifier  return_type method_name()
+{
+
+
+}
+
+public static void m2()
+{
+
+}
